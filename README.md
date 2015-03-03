@@ -1,3 +1,18 @@
+
+This repo contains the files for the Course Project 1 for the Coursers's course `Exploratory Data Analysis`.
+
+Initially it was forked and cloned from this [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+
+There are 4 R scripts and 4 PNG files with graphs: 
+* plot1.R generates the histogram in plot1.png
+* plot2.R generates the graphics in plot2.png
+* plot3.R generates the graphics in plot3.png
+* plot4.R generates the graphics in plot4.png
+
+Each script automatically downlods the zipped file, unzips it, subsets the data, draws the graphic and saves it as a png file.
+
+Below is a description of the whole assignment.
+
 ## Introduction
 
 This assignment uses data from
